@@ -54,4 +54,4 @@ npx mcp-slack
 
 ## License
 
-MIT
+Apache-2.0
